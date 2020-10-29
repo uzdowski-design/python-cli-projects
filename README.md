@@ -16,6 +16,12 @@ Use your terminal input to beat the opponent.
 It's not about the graphics and firewors. It's all about the competition shivers.  
 GAME ON!
 
+#### ROCK - PAPER - SCISSORS
+Read your opponents mind.  
+Make your choice.  
+Win.  
+Didn't work? That's fine... Try again!
+
 #### GUESS THE NUMBER
 The rules? Simple.  
 Try to guess my secret number using the terminal input. Follow the on-screen instructions to correct your tries.  
@@ -26,9 +32,3 @@ Can you read my mind?
 The most exciting racing game ever!  
 Start or stop the car using terminal input.  
 If you're lost in the interface, type 'help' to check out all the custom commands.
-
-#### ROCK - PAPER - SCISSORS
-Read your opponents mind.  
-Make your choice.  
-Win.  
-Didn't work? That's fine... Try again!
