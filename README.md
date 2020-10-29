@@ -26,3 +26,9 @@ Can you read my mind?
 The most exciting racing game ever!  
 Start or stop the car using terminal input.  
 If you're lost in the interface, type 'help' to check out all the custom commands.
+
+#### ROCK - PAPER - SCISSORS
+Read your opponents mind.  
+Make your choice.  
+Win.  
+Didn't work? That's fine... Try again!
